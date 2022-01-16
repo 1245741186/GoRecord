@@ -1,0 +1,505 @@
+(;FF[4]TT[60]KM[7.5]RU[Chinese]GM[1]SZ[19]GN[]PW[V26551776]AP[Lizzie: yzy2.1]TC[3]DT[2022-01-15]BR[6段]PB[XYS1971]RE[W+R]DZ[G]HA[0]TM[1200]RL[0]WR[6段]RN[3]CA[UTF-8]C[引擎规则: 中国规则];B[pd]C[黑棋 胜率: 39.6% 
+盘面: 6.8 不确定度: 16.7
+(闪电分析 / 1 计算量)
+贴目: 7.5]LZ[闪电分析 39.6 1 0.7 16.7
+move D4 visits 1 winrate 6044 prior 42.487215995788574 scoreMean 0.6641319394111633 pv D4 info ];W[dd]C[白棋 胜率: 62.9% 
+盘面: 6.3 不确定度: 17.2
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 62.9 6 -1.2 17.2
+move D4 visits 1 winrate 3707 prior 29.367300868034363 scoreMean -1.2169373035430908 pv D4 info move C17 visits 1 winrate 3889 prior 14.648313820362091 scoreMean -0.8954117298126221 pv C17 info move Q4 visits 1 winrate 3818 prior 12.776486575603485 scoreMean -0.8757845163345337 pv Q4 info move F17 visits 1 winrate 3838 prior 11.43600344657898 scoreMean -1.1848950386047363 pv F17 info move C14 visits 1 winrate 3759 prior 5.169733986258507 scoreMean -1.3520116806030273 pv C14 info move Q3 visits 1 winrate 3847 prior 3.875735029578209 scoreMean -0.9411304593086243 pv Q3 info ];B[qp]C[黑棋 胜率: 39.7% 
+盘面: 6.8 不确定度: 16.9
+(闪电分析 / 1 计算量)
+贴目: 7.5]LZ[闪电分析 39.7 1 0.7 16.9
+move D4 visits 1 winrate 6031 prior 83.5030198097229 scoreMean 0.6536474227905273 pv D4 info ];W[dp]C[白棋 胜率: 62.2% 
+盘面: 6.7 不确定度: 16.9
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 62.2 6 -0.8 16.9
+move C17 visits 1 winrate 3775 prior 25.79682469367981 scoreMean -0.8361160159111023 pv C17 info move C3 visits 1 winrate 3790 prior 20.12249380350113 scoreMean -0.8820551037788391 pv C3 info move P4 visits 1 winrate 3893 prior 17.081908881664276 scoreMean -0.9707720875740051 pv P4 info move O4 visits 1 winrate 3828 prior 10.455992072820663 scoreMean -0.981976330280304 pv O4 info move O3 visits 1 winrate 3712 prior 6.677134335041046 scoreMean -1.171494722366333 pv O3 info move O17 visits 1 winrate 3611 prior 3.030264191329479 scoreMean -1.3346986770629883 pv O17 info ];B[nq]C[黑棋 胜率: 38.9% 
+盘面: 6.6 不确定度: 17.1
+(闪电分析 / 3 计算量)
+贴目: 7.5]LZ[闪电分析 38.9 3 0.9 17.1
+move R17 visits 1 winrate 6108 prior 72.85895943641663 scoreMean 0.9287678599357605 pv R17 info move Q4 visits 1 winrate 6059 prior 11.118859052658081 scoreMean 0.7848071455955505 pv Q4 info move O17 visits 1 winrate 5928 prior 9.783653914928436 scoreMean 0.6912978291511536 pv O17 info ];W[nc]C[白棋 胜率: 63.4% 
+盘面: 6.4 不确定度: 16.8
+(闪电分析 / 1 计算量)
+贴目: 7.5]LZ[闪电分析 63.4 1 -1.1 16.8
+move R14 visits 1 winrate 3662 prior 33.92126262187958 scoreMean -1.1140656471252441 pv R14 info ];B[qf]C[黑棋 胜率: 39.3% 
+盘面: 6.7 不确定度: 17.0
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 39.3 6 0.8 17.0
+move Q4 visits 1 winrate 6065 prior 41.88202619552612 scoreMean 0.8369243144989014 pv Q4 info move Q17 visits 1 winrate 6035 prior 26.401767134666443 scoreMean 0.9038510322570801 pv Q17 info move F17 visits 1 winrate 5804 prior 16.903287172317505 scoreMean 0.39742612838745117 pv F17 info move F3 visits 1 winrate 5926 prior 5.681971088051796 scoreMean 0.521083414554596 pv F3 info move C14 visits 1 winrate 5901 prior 1.664077304303646 scoreMean 0.47980421781539917 pv C14 info move Q18 visits 1 winrate 5689 prior 0.7860545068979263 scoreMean 0.37225911021232605 pv Q18 info ];W[pc]C[白棋 胜率: 60.0% 
+盘面: 6.7 不确定度: 16.6
+(闪电分析 / 1 计算量)
+贴目: 7.5]LZ[闪电分析 60.0 1 -0.8 16.6
+move R17 visits 1 winrate 3997 prior 98.33111763000488 scoreMean -0.789823055267334 pv R17 info ];B[qc]C[黑棋 胜率: 41.1% 
+盘面: 6.7 不确定度: 17.1
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 41.1 6 0.8 17.1
+move R18 visits 1 winrate 5889 prior 97.89623618125916 scoreMean 0.8057960867881775 pv R18 info move Q4 visits 1 winrate 5534 prior 0.5565413273870945 scoreMean 0.6648862361907959 pv Q4 info move P4 visits 1 winrate 5834 prior 0.4176451824605465 scoreMean 0.7789402008056641 pv P4 info move P5 visits 1 winrate 5374 prior 0.206749327480793 scoreMean 0.2501888871192932 pv P5 info move O4 visits 1 winrate 5162 prior 0.04920327919535339 scoreMean -0.05111824721097946 pv O4 info move P16 visits 1 winrate 4877 prior 0.03699578519444913 scoreMean -0.43027064204216003 pv P16 info ];W[qb]C[白棋 胜率: 60.3% 
+盘面: 6.6 不确定度: 16.6
+(闪电分析 / 2 计算量)
+贴目: 7.5]LZ[闪电分析 60.3 2 -0.9 16.6
+move P17 visits 1 winrate 3974 prior 70.46902179718018 scoreMean -0.8913818001747131 pv P17 info move S17 visits 1 winrate 3559 prior 13.577917218208313 scoreMean -1.2923252582550049 pv S17 info ];B[oc]C[黑棋 胜率: 41.0% 
+盘面: 6.7 不确定度: 17.5
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 41.0 6 0.8 17.5
+move Q18 visits 1 winrate 5896 prior 99.7692346572876 scoreMean 0.7663914561271667 pv Q18 info move Q4 visits 1 winrate 1364 prior 0.01002956269076094 scoreMean -6.932651996612549 pv Q4 info move R3 visits 1 winrate 1469 prior 0.00608323716733139 scoreMean -6.591368198394775 pv R3 info move P16 visits 1 winrate 324 prior 0.005988925477140583 scoreMean -14.354756355285645 pv P16 info move P3 visits 1 winrate 1095 prior 0.005850192246725783 scoreMean -7.769028186798096 pv P3 info move R5 visits 1 winrate 762 prior 0.005495746881933883 scoreMean -9.53919792175293 pv R5 info ];W[pb]C[白棋 胜率: 60.6% 
+盘面: 6.5 不确定度: 16.6
+(闪电分析 / 2 计算量)
+贴目: 7.5]LZ[闪电分析 60.6 2 -1.0 16.6
+move O16 visits 1 winrate 3942 prior 39.693525433540344 scoreMean -0.953589916229248 pv O16 info move P16 visits 1 winrate 3781 prior 38.39721381664276 scoreMean -1.0604299306869507 pv P16 info ];B[od]C[黑棋 胜率: 40.7% 
+盘面: 6.8 不确定度: 17.0
+(闪电分析 / 1 计算量)
+贴目: 7.5]LZ[闪电分析 40.7 1 0.7 17.0
+move P18 visits 1 winrate 5932 prior 98.08886647224426 scoreMean 0.7013545036315918 pv P18 info ];W[ob]C[白棋 胜率: 59.3% 
+盘面: 6.7 不确定度: 16.3
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 59.3 6 -0.8 16.3
+move O16 visits 1 winrate 4074 prior 50.60598850250244 scoreMean -0.8191853165626526 pv O16 info move C3 visits 1 winrate 4067 prior 12.821777164936066 scoreMean -0.7357190847396851 pv C3 info move N15 visits 1 winrate 3907 prior 12.575316429138184 scoreMean -1.021024227142334 pv N15 info move C17 visits 1 winrate 3835 prior 11.032842844724655 scoreMean -1.0013545751571655 pv C17 info move F3 visits 1 winrate 3764 prior 4.771886765956879 scoreMean -1.001749873161316 pv F3 info move S17 visits 1 winrate 3923 prior 3.3541645854711533 scoreMean -0.9513913989067078 pv S17 info ];B[nd]C[黑棋 胜率: 38.5% 
+盘面: 6.6 不确定度: 16.6
+(闪电分析 / 2 计算量)
+贴目: 7.5]LZ[闪电分析 38.5 2 0.9 16.6
+move N17 visits 2 winrate 6150 prior 92.22920536994934 scoreMean 0.8866852223873138 pv N17 F3 info ];W[mc]C[白棋 胜率: 62.3% 
+盘面: 6.5 不确定度: 16.3
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 62.3 6 -1.0 16.3
+move F3 visits 1 winrate 3774 prior 36.1029177904129 scoreMean -1.0108206272125244 pv F3 info move C3 visits 1 winrate 3888 prior 24.764733016490936 scoreMean -0.8084564208984375 pv C3 info move C17 visits 1 winrate 3761 prior 18.220290541648865 scoreMean -1.004093885421753 pv C17 info move Q9 visits 1 winrate 3728 prior 9.110435843467712 scoreMean -1.1291207075119019 pv Q9 info move N16 visits 1 winrate 3792 prior 6.584467738866806 scoreMean -1.0428138971328735 pv N16 info move Q8 visits 1 winrate 3595 prior 1.0712171904742718 scoreMean -1.4465185403823853 pv Q8 info ];B[cf]C[黑棋 胜率: 38.4% 
+盘面: 6.7 不确定度: 16.4
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 38.4 6 0.8 16.4
+move F17 visits 1 winrate 6161 prior 22.802060842514038 scoreMean 0.7877443432807922 pv F17 info move Q4 visits 1 winrate 6115 prior 18.326443433761597 scoreMean 0.9297193288803101 pv Q4 info move F16 visits 1 winrate 6162 prior 14.859333634376526 scoreMean 0.8400596380233765 pv F16 info move C15 visits 1 winrate 6034 prior 12.612010538578033 scoreMean 0.8149649500846863 pv C15 info move N16 visits 1 winrate 6037 prior 6.353582441806793 scoreMean 0.7004233598709106 pv N16 info move F3 visits 1 winrate 6014 prior 5.7427868247032166 scoreMean 0.735426127910614 pv F3 info ];W[ch]C[白棋 胜率: 60.7% 
+盘面: 6.6 不确定度: 16.2
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 60.7 6 -0.9 16.2
+move F3 visits 1 winrate 3927 prior 36.25301122665405 scoreMean -0.868476390838623 pv F3 info move N16 visits 1 winrate 3587 prior 30.647578835487366 scoreMean -1.2699167728424072 pv N16 info move Q9 visits 1 winrate 3885 prior 9.63662788271904 scoreMean -0.9551253318786621 pv Q9 info move Q8 visits 1 winrate 3713 prior 7.625061273574829 scoreMean -1.261613130569458 pv Q8 info move C3 visits 1 winrate 3683 prior 6.618301570415497 scoreMean -0.9302626848220825 pv C3 info move C17 visits 1 winrate 3869 prior 2.4016762152314186 scoreMean -0.8567175269126892 pv C17 info ];B[cc]C[黑棋 胜率: 39.7% 
+盘面: 6.7 不确定度: 16.4
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 39.7 6 0.8 16.4
+move C16 visits 1 winrate 6031 prior 89.05813097953796 scoreMean 0.7761046290397644 pv C16 info move D17 visits 1 winrate 5530 prior 4.994962736964226 scoreMean 0.20901216566562653 pv D17 info move Q4 visits 1 winrate 5744 prior 1.9313797354698181 scoreMean 0.7232398986816406 pv Q4 info move P4 visits 1 winrate 6035 prior 1.1691552586853504 scoreMean 1.061501383781433 pv P4 info move P5 visits 1 winrate 5857 prior 0.8226035162806511 scoreMean 0.8340906500816345 pv P5 info move O4 visits 1 winrate 5738 prior 0.175827881321311 scoreMean 0.6789575219154358 pv O4 info ];W[cd]C[白棋 胜率: 60.3% 
+盘面: 6.7 不确定度: 16.5
+(闪电分析 / 1 计算量)
+贴目: 7.5]LZ[闪电分析 60.3 1 -0.8 16.5
+move D17 visits 1 winrate 3969 prior 99.31321740150452 scoreMean -0.7986742258071899 pv D17 info ];B[dc]C[黑棋 胜率: 37.8% 
+盘面: 6.6 不确定度: 16.2
+(闪电分析 / 3 计算量)
+贴目: 7.5]LZ[闪电分析 37.8 3 0.9 16.2
+move E16 visits 2 winrate 6216 prior 95.68222761154175 scoreMean 0.9218030869960785 pv E16 E17 info move B17 visits 1 winrate 5595 prior 1.9228450953960419 scoreMean 0.26086437702178955 pv B17 info ];W[ed]C[白棋 胜率: 62.8% 
+盘面: 6.5 不确定度: 16.2
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 62.8 6 -1.0 16.2
+move E17 visits 1 winrate 3723 prior 43.02807152271271 scoreMean -0.9984968304634094 pv E17 info move B16 visits 1 winrate 3902 prior 42.27832555770874 scoreMean -0.7883519530296326 pv B16 info move F18 visits 1 winrate 3481 prior 13.897731900215149 scoreMean -1.213898777961731 pv F18 info move F17 visits 1 winrate 3262 prior 0.12505925260484219 scoreMean -1.7833046913146973 pv F17 info move B17 visits 1 winrate 2857 prior 0.07614914793521166 scoreMean -2.4365432262420654 pv B17 info move G18 visits 1 winrate 2838 prior 0.030647090170532465 scoreMean -2.3542795181274414 pv G18 info ];B[bd]C[黑棋 胜率: 40.5% 
+盘面: 6.9 不确定度: 16.6
+(闪电分析 / 1 计算量)
+贴目: 7.5]LZ[闪电分析 40.5 1 0.6 16.6
+move B15 visits 1 winrate 5945 prior 94.94407176971436 scoreMean 0.5529940128326416 pv B15 info ];W[be]C[白棋 胜率: 64.1% 
+盘面: 6.4 不确定度: 15.9
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 64.1 6 -1.1 15.9
+move B17 visits 1 winrate 3589 prior 99.05905723571777 scoreMean -1.1269502639770508 pv B17 info move F18 visits 1 winrate 1359 prior 0.06952961557544768 scoreMean -5.19754695892334 pv F18 info move E17 visits 1 winrate 1533 prior 0.059471826534718275 scoreMean -4.9326066970825195 pv E17 info move B18 visits 1 winrate 2045 prior 0.036071488284505904 scoreMean -3.4932398796081543 pv B18 info move F17 visits 1 winrate 1305 prior 0.03468960931058973 scoreMean -5.356362819671631 pv F17 info move A17 visits 1 winrate 2059 prior 0.024888577172532678 scoreMean -3.3928112983703613 pv A17 info ];B[bc]C[黑棋 胜率: 38.9% 
+盘面: 6.6 不确定度: 16.6
+(闪电分析 / 2 计算量)
+贴目: 7.5]LZ[闪电分析 38.9 2 0.9 16.6
+move B14 visits 1 winrate 6108 prior 80.89853525161743 scoreMean 0.8512302041053772 pv B14 info move Q4 visits 1 winrate 6164 prior 13.938869535923004 scoreMean 1.0117849111557007 pv Q4 info ];W[bf]C[白棋 胜率: 66.3% 
+盘面: 6.2 不确定度: 16.1
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 66.3 6 -1.3 16.1
+move F17 visits 1 winrate 3369 prior 98.06469678878784 scoreMean -1.3374109268188477 pv F17 info move F18 visits 1 winrate 2866 prior 1.1802255176007748 scoreMean -1.891737699508667 pv F18 info move E17 visits 1 winrate 2651 prior 0.15211437130346894 scoreMean -2.069179058074951 pv E17 info move C13 visits 1 winrate 1865 prior 0.06991560803726315 scoreMean -4.230366230010986 pv C13 info move G18 visits 1 winrate 2538 prior 0.014371653378475457 scoreMean -2.439408779144287 pv G18 info move C4 visits 1 winrate 862 prior 0.011961150448769331 scoreMean -8.114808082580566 pv C4 info ];B[fc]C[黑棋 胜率: 37.1% 
+盘面: 6.6 不确定度: 15.8
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 37.1 6 0.9 15.8
+move F3 visits 1 winrate 6287 prior 27.021902799606323 scoreMean 0.9041208028793335 pv F3 info move G3 visits 1 winrate 6309 prior 14.454956352710724 scoreMean 0.9982644319534302 pv G3 info move Q4 visits 1 winrate 6448 prior 11.994190514087677 scoreMean 1.0358192920684814 pv Q4 info move R9 visits 1 winrate 6376 prior 11.809318512678146 scoreMean 0.9611478447914124 pv R9 info move Q9 visits 1 winrate 6339 prior 10.635022819042206 scoreMean 0.9897276759147644 pv Q9 info move C6 visits 1 winrate 6248 prior 9.791464358568192 scoreMean 0.8764870762825012 pv C6 info ];W[qk]C[白棋 胜率: 69.8% 
+盘面: 6.1 不确定度: 15.7
+(闪电分析 / 5 计算量)
+贴目: 7.5]LZ[闪电分析 69.8 5 -1.4 15.7
+move C3 visits 1 winrate 3020 prior 32.32158124446869 scoreMean -1.3659086227416992 pv C3 info move R7 visits 1 winrate 3369 prior 29.157373309135437 scoreMean -1.2419493198394775 pv R7 info move F3 visits 1 winrate 3414 prior 25.933104753494263 scoreMean -1.1643779277801514 pv F3 info move C6 visits 1 winrate 3139 prior 5.27377724647522 scoreMean -1.5228548049926758 pv C6 info move R11 visits 1 winrate 3172 prior 3.8152888417243958 scoreMean -1.3831394910812378 pv R11 info ];B[qi]C[黑棋 胜率: 36.1% 
+盘面: 6.5 不确定度: 15.9
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 36.1 6 1.0 15.9
+move R6 visits 1 winrate 6391 prior 58.76478552818298 scoreMean 1.0362666845321655 pv R6 info move F3 visits 1 winrate 6393 prior 15.421678125858307 scoreMean 1.077546238899231 pv F3 info move Q11 visits 1 winrate 6566 prior 10.097746551036835 scoreMean 1.0836189985275269 pv Q11 info move G3 visits 1 winrate 6455 prior 5.753522738814354 scoreMean 1.2022874355316162 pv G3 info move C6 visits 1 winrate 6325 prior 2.475767955183983 scoreMean 1.035939335823059 pv C6 info move P5 visits 1 winrate 6245 prior 1.6411837190389633 scoreMean 0.909235417842865 pv P5 info ];W[qn]C[白棋 胜率: 69.7% 
+盘面: 6.0 不确定度: 15.7
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 69.7 6 -1.5 15.7
+move C3 visits 1 winrate 3030 prior 45.52714228630066 scoreMean -1.481729507446289 pv C3 info move F3 visits 1 winrate 3344 prior 39.24684822559357 scoreMean -1.2292124032974243 pv F3 info move C6 visits 1 winrate 3193 prior 9.032931923866272 scoreMean -1.4478814601898193 pv C6 info move Q8 visits 1 winrate 3109 prior 2.0820390433073044 scoreMean -1.5712838172912598 pv Q8 info move D10 visits 1 winrate 2959 prior 0.7681865710765123 scoreMean -2.0649752616882324 pv D10 info move G3 visits 1 winrate 2648 prior 0.3171158256009221 scoreMean -2.285292148590088 pv G3 info ];B[pl]C[黑棋 胜率: 31.2% 
+盘面: 6.2 不确定度: 15.7
+(闪电分析 / 2 计算量)
+贴目: 7.5]LZ[闪电分析 31.2 2 1.3 15.7
+move R8 visits 1 winrate 6875 prior 45.44040262699127 scoreMean 1.2942681312561035 pv R8 info move Q11 visits 1 winrate 6626 prior 25.427600741386414 scoreMean 1.2505820989608765 pv Q11 info ];W[ql]C[白棋 胜率: 69.6% 
+盘面: 5.9 不确定度: 15.3
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 69.6 6 -1.6 15.3
+move Q6 visits 1 winrate 3039 prior 51.45421624183655 scoreMean -1.6359765529632568 pv Q6 info move F3 visits 1 winrate 3048 prior 27.4742990732193 scoreMean -1.4909508228302002 pv F3 info move C3 visits 1 winrate 2787 prior 15.537302196025848 scoreMean -1.7393893003463745 pv C3 info move C6 visits 1 winrate 2925 prior 3.060036525130272 scoreMean -1.760604977607727 pv C6 info move Q7 visits 1 winrate 2270 prior 0.2345861168578267 scoreMean -2.6060636043548584 pv Q7 info move C7 visits 1 winrate 2729 prior 0.11299618054181337 scoreMean -2.349109649658203 pv C7 info ];B[pn]C[黑棋 胜率: 29.1% 
+盘面: 5.8 不确定度: 16.1
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 29.1 6 1.7 16.1
+move R5 visits 1 winrate 7089 prior 45.26340365409851 scoreMean 1.725624918937683 pv R5 info move Q11 visits 1 winrate 7241 prior 35.80630123615265 scoreMean 1.7968159914016724 pv Q11 info move Q9 visits 1 winrate 6522 prior 6.787196546792984 scoreMean 1.3034462928771973 pv Q9 info move S11 visits 1 winrate 6482 prior 2.100523002445698 scoreMean 1.2746496200561523 pv S11 info move Q5 visits 1 winrate 6387 prior 2.061907760798931 scoreMean 0.8587212562561035 pv Q5 info move F3 visits 1 winrate 6416 prior 1.812533289194107 scoreMean 0.9509338736534119 pv F3 info ];W[qo]C[白棋 胜率: 71.7% 
+盘面: 5.8 不确定度: 15.3
+(闪电分析 / 1 计算量)
+贴目: 7.5]LZ[闪电分析 71.7 1 -1.7 15.3
+move Q5 visits 1 winrate 2829 prior 90.30474424362183 scoreMean -1.6765398979187012 pv Q5 info ];B[po]C[黑棋 胜率: 26.2% 
+盘面: 5.7 不确定度: 15.9
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 26.2 6 1.8 15.9
+move S4 visits 1 winrate 7377 prior 36.71444356441498 scoreMean 1.7917767763137817 pv S4 info move Q11 visits 1 winrate 7097 prior 31.403526663780212 scoreMean 1.873559594154358 pv Q11 info move Q9 visits 1 winrate 6908 prior 10.048816353082657 scoreMean 1.487374186515808 pv Q9 info move Q4 visits 1 winrate 6474 prior 9.919023513793945 scoreMean 1.2648885250091553 pv Q4 info move Q7 visits 1 winrate 6194 prior 5.333304405212402 scoreMean 0.7122025489807129 pv Q7 info move S11 visits 1 winrate 6998 prior 1.9515031948685646 scoreMean 1.739573359489441 pv S11 info ];W[rp]C[白棋 胜率: 74.7% 
+盘面: 5.3 不确定度: 15.1
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 74.7 6 -2.2 15.1
+move S3 visits 1 winrate 2534 prior 94.736647605896 scoreMean -2.20527720451355 pv S3 info move F3 visits 1 winrate 1507 prior 2.4374309927225113 scoreMean -4.083945274353027 pv F3 info move C3 visits 1 winrate 1580 prior 0.9771472774446011 scoreMean -3.835538148880005 pv C3 info move S5 visits 1 winrate 2035 prior 0.13994899345561862 scoreMean -2.9882452487945557 pv S5 info move R3 visits 1 winrate 1421 prior 0.10359579464420676 scoreMean -4.059290885925293 pv R3 info move C13 visits 1 winrate 1881 prior 0.09543692576698959 scoreMean -4.032665729522705 pv C13 info ];B[rq]C[黑棋 胜率: 29.8% 
+盘面: 5.9 不确定度: 15.9
+(闪电分析 / 3 计算量)
+贴目: 7.5]LZ[闪电分析 29.8 3 1.6 15.9
+move Q11 visits 1 winrate 7016 prior 33.899855613708496 scoreMean 1.5654131174087524 pv Q11 info move Q9 visits 1 winrate 7071 prior 19.28728222846985 scoreMean 1.6110000610351562 pv Q9 info move R3 visits 1 winrate 6682 prior 16.58613234758377 scoreMean 1.376512885093689 pv R3 info ];W[qq]C[白棋 胜率: 70.2% 
+盘面: 6.0 不确定度: 15.2
+(闪电分析 / 1 计算量)
+贴目: 7.5]LZ[闪电分析 70.2 1 -1.5 15.2
+move Q4 visits 1 winrate 2980 prior 99.8147964477539 scoreMean -1.5384167432785034 pv Q4 info ];B[pp]C[黑棋 胜率: 45.9% 
+盘面: 7.4 不确定度: 15.6
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 45.9 6 0.1 15.6
+move S2 visits 1 winrate 5405 prior 78.05627584457397 scoreMean 0.07364504039287567 pv S2 info move S5 visits 1 winrate 5647 prior 17.512646317481995 scoreMean 0.32774603366851807 pv S5 info move T3 visits 1 winrate 4432 prior 1.5995698049664497 scoreMean -0.9152384996414185 pv T3 info move F16 visits 1 winrate 5602 prior 1.0307447984814644 scoreMean 0.558932900428772 pv F16 info move Q11 visits 1 winrate 4930 prior 0.510255666449666 scoreMean -0.8205677270889282 pv Q11 info move E17 visits 1 winrate 6430 prior 0.30172658152878284 scoreMean 1.4962213039398193 pv E17 info ];W[rr]C[白棋 胜率: 57.9% 
+盘面: 6.9 不确定度: 15.4
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 57.9 6 -0.6 15.4
+move S5 visits 1 winrate 4206 prior 69.1664457321167 scoreMean -0.5827049016952515 pv S5 info move R7 visits 1 winrate 3677 prior 30.12818694114685 scoreMean -1.145452857017517 pv R7 info move C13 visits 1 winrate 2762 prior 0.19733367953449488 scoreMean -2.2746422290802 pv C13 info move C3 visits 1 winrate 1847 prior 0.026343570789322257 scoreMean -3.4426016807556152 pv C3 info move D12 visits 1 winrate 1876 prior 0.025433520204387605 scoreMean -4.092269420623779 pv D12 info move D3 visits 1 winrate 1958 prior 0.0242688343860209 scoreMean -3.0893237590789795 pv D3 info ];B[qm]C[黑棋 胜率: 46.3% 
+盘面: 7.3 不确定度: 15.9
+(闪电分析 / 2 计算量)
+贴目: 7.5]LZ[闪电分析 46.3 2 0.2 15.9
+move Q11 visits 1 winrate 5365 prior 32.6973557472229 scoreMean 0.19085636734962463 pv Q11 info move S7 visits 1 winrate 6051 prior 30.004781484603882 scoreMean 0.7552219033241272 pv S7 info ];W[rm]C[白棋 胜率: 55.3% 
+盘面: 7.4 不确定度: 14.8
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 55.3 6 -0.1 14.8
+move S5 visits 1 winrate 4471 prior 99.06759262084961 scoreMean -0.07038542628288269 pv S5 info move C13 visits 1 winrate 514 prior 0.2436530077829957 scoreMean -9.382471084594727 pv C13 info move Q7 visits 1 winrate 644 prior 0.07562775281257927 scoreMean -6.087065696716309 pv Q7 info move B13 visits 1 winrate 686 prior 0.03954288549721241 scoreMean -8.04051685333252 pv B13 info move D3 visits 1 winrate 447 prior 0.03773208300117403 scoreMean -9.514811515808105 pv D3 info move C3 visits 1 winrate 443 prior 0.03544601204339415 scoreMean -9.456918716430664 pv C3 info ];B[ro]C[黑棋 胜率: 45.0% 
+盘面: 7.2 不确定度: 15.8
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 45.0 6 0.3 15.8
+move Q7 visits 1 winrate 5504 prior 98.16095232963562 scoreMean 0.313856303691864 pv Q7 info move E17 visits 1 winrate 5745 prior 0.6128939334303141 scoreMean 0.7797421216964722 pv E17 info move F16 visits 1 winrate 4739 prior 0.564624322578311 scoreMean -0.6821474432945251 pv F16 info move T3 visits 1 winrate 1628 prior 0.22547105327248573 scoreMean -5.6993303298950195 pv T3 info move G17 visits 1 winrate 3215 prior 0.10608977172523737 scoreMean -3.159623622894287 pv G17 info move G18 visits 1 winrate 2978 prior 0.03444230533204973 scoreMean -2.8859875202178955 pv G18 info ];W[pm]C[白棋 胜率: 43.4% 
+盘面: 8.1 不确定度: 15.7
+(闪电分析 / 2 计算量)
+贴目: 7.5]LZ[闪电分析 43.4 2 0.6 15.7
+move T4 visits 1 winrate 5663 prior 99.71822500228882 scoreMean 0.6200632452964783 pv T4 info move S6 visits 1 winrate 1660 prior 0.06971940747462213 scoreMean -4.750571250915527 pv S6 info ];B[sp]C[黑棋 胜率: 57.4% 
+盘面: 8.5 不确定度: 16.1
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 57.4 6 -1.0 16.1
+move P7 visits 1 winrate 4260 prior 94.8412299156189 scoreMean -1.0445815324783325 pv P7 info move P8 visits 1 winrate 3592 prior 2.2109340876340866 scoreMean -1.6325840950012207 pv P8 info move Q11 visits 1 winrate 3914 prior 1.1237342841923237 scoreMean -1.6465198993682861 pv Q11 info move O7 visits 1 winrate 2727 prior 0.7241216953843832 scoreMean -3.087395191192627 pv O7 info move Q13 visits 1 winrate 3594 prior 0.18633340951055288 scoreMean -2.468139171600342 pv Q13 info move F16 visits 1 winrate 4360 prior 0.0933290517423302 scoreMean -1.2895249128341675 pv F16 info ];W[om]C[白棋 胜率: 48.1% 
+盘面: 7.8 不确定度: 15.5
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 48.1 6 0.3 15.5
+move C3 visits 1 winrate 5191 prior 48.42597544193268 scoreMean 0.29386788606643677 pv C3 info move F3 visits 1 winrate 5227 prior 31.63471519947052 scoreMean 0.32238346338272095 pv F3 info move C6 visits 1 winrate 5077 prior 15.053030848503113 scoreMean 0.1199091449379921 pv C6 info move D3 visits 1 winrate 4883 prior 1.2386483140289783 scoreMean 0.017514489591121674 pv D3 info move C4 visits 1 winrate 4470 prior 0.32629165798425674 scoreMean -0.27199169993400574 pv C4 info move D11 visits 1 winrate 4674 prior 0.3095306921750307 scoreMean -0.28588244318962097 pv D11 info ];B[fq]C[黑棋 胜率: 53.7% 
+盘面: 8.2 不确定度: 16.2
+(闪电分析 / 3 计算量)
+贴目: 7.5]LZ[闪电分析 53.7 3 -0.7 16.2
+move E3 visits 1 winrate 4627 prior 35.1641982793808 scoreMean -0.6885747909545898 pv E3 info move D6 visits 1 winrate 4841 prior 27.68167555332184 scoreMean -0.37075674533843994 pv D6 info move C6 visits 1 winrate 4887 prior 13.031281530857086 scoreMean -0.34835389256477356 pv C6 info ];W[cn]C[白棋 胜率: 42.8% 
+盘面: 8.4 不确定度: 15.8
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 42.8 6 0.9 15.8
+move D3 visits 1 winrate 5717 prior 41.862404346466064 scoreMean 0.9050005078315735 pv D3 info move D2 visits 1 winrate 5912 prior 38.34014534950256 scoreMean 1.0269999504089355 pv D2 info move J4 visits 1 winrate 5152 prior 6.803883612155914 scoreMean 0.1938798427581787 pv J4 info move K4 visits 1 winrate 4915 prior 4.931860417127609 scoreMean -0.06030237674713135 pv K4 info move N6 visits 1 winrate 4257 prior 1.6894908621907234 scoreMean -0.6752083897590637 pv N6 info move D11 visits 1 winrate 4710 prior 0.6101030390709639 scoreMean -0.15489332377910614 pv D11 info ];B[jp]C[黑棋 胜率: 48.9% 
+盘面: 7.5 不确定度: 16.0
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 48.9 6 -0.0 16.0
+move H3 visits 1 winrate 5114 prior 18.509764969348907 scoreMean -0.04959661513566971 pv H3 info move J4 visits 1 winrate 4685 prior 13.985554873943329 scoreMean -0.4689161777496338 pv J4 info move E3 visits 1 winrate 5230 prior 8.849699050188065 scoreMean 0.049527447670698166 pv E3 info move O2 visits 1 winrate 4872 prior 9.770645201206207 scoreMean -0.33000367879867554 pv O2 info move N4 visits 1 winrate 4555 prior 7.987232506275177 scoreMean -0.7858427166938782 pv N4 info move O5 visits 1 winrate 4776 prior 7.78888612985611 scoreMean -0.42949801683425903 pv O5 info ];W[eq]C[白棋 胜率: 50.3% 
+盘面: 7.5 不确定度: 15.6
+(闪电分析 / 1 计算量)
+贴目: 7.5]LZ[闪电分析 50.3 1 -0.0 15.6
+move F4 visits 1 winrate 4966 prior 95.76516151428223 scoreMean -0.004662524443119764 pv F4 info ];B[fp]C[黑棋 胜率: 60.4% 
+盘面: 8.8 不确定度: 15.9
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 60.4 6 -1.3 15.9
+move E7 visits 1 winrate 3963 prior 26.8898606300354 scoreMean -1.2849947214126587 pv E7 info move F7 visits 1 winrate 4506 prior 13.171225786209106 scoreMean -0.6271250247955322 pv F7 info move O2 visits 1 winrate 4542 prior 12.087703496217728 scoreMean -0.6699737310409546 pv O2 info move L5 visits 1 winrate 4694 prior 7.477990537881851 scoreMean -0.5868322253227234 pv L5 info move O5 visits 1 winrate 4446 prior 5.8068279176950455 scoreMean -0.798393726348877 pv O5 info move N4 visits 1 winrate 4616 prior 5.003354698419571 scoreMean -0.9044396877288818 pv N4 info ];W[en]C[白棋 胜率: 49.1% 
+盘面: 7.7 不确定度: 15.8
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 49.1 6 0.2 15.8
+move N6 visits 1 winrate 5089 prior 25.107792019844055 scoreMean 0.20855987071990967 pv N6 info move D11 visits 1 winrate 4983 prior 13.896338641643524 scoreMean 0.04932006448507309 pv D11 info move N7 visits 1 winrate 5598 prior 11.307301372289658 scoreMean 0.7806912660598755 pv N7 info move B6 visits 1 winrate 5535 prior 9.575320035219193 scoreMean 0.6711536049842834 pv B6 info move E5 visits 1 winrate 5133 prior 10.076584666967392 scoreMean 0.25200122594833374 pv E5 info move S17 visits 1 winrate 5611 prior 5.934574827551842 scoreMean 0.7126632928848267 pv S17 info ];B[di]C[黑棋 胜率: 49.8% 
+盘面: 7.6 不确定度: 15.4
+(闪电分析 / 1 计算量)
+贴目: 7.5]LZ[闪电分析 49.8 1 -0.1 15.4
+move D12 visits 1 winrate 5022 prior 58.55691432952881 scoreMean -0.1250297874212265 pv D12 info ];W[dh]C[白棋 胜率: 52.1% 
+盘面: 7.4 不确定度: 15.5
+(闪电分析 / 2 计算量)
+贴目: 7.5]LZ[闪电分析 52.1 2 -0.1 15.5
+move E11 visits 1 winrate 4787 prior 45.94021439552307 scoreMean -0.08142518252134323 pv E11 info move F11 visits 1 winrate 5167 prior 38.23483884334564 scoreMean 0.3170437514781952 pv F11 info ];B[fi]C[黑棋 胜率: 53.2% 
+盘面: 7.9 不确定度: 15.3
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 53.2 6 -0.4 15.3
+move R16 visits 1 winrate 4684 prior 14.20828253030777 scoreMean -0.4245504140853882 pv R16 info move N3 visits 1 winrate 5016 prior 11.862771958112717 scoreMean -0.2610812187194824 pv N3 info move M5 visits 1 winrate 4290 prior 10.54195687174797 scoreMean -1.0937466621398926 pv M5 info move O2 visits 1 winrate 4574 prior 7.160962373018265 scoreMean -0.48039913177490234 pv O2 info move E12 visits 1 winrate 4528 prior 6.972061842679977 scoreMean -0.44215714931488037 pv E12 info move O5 visits 1 winrate 4413 prior 6.401047855615616 scoreMean -0.779941737651825 pv O5 info ];W[nr]C[白棋 胜率: 52.0% 
+盘面: 7.3 不确定度: 14.7
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 52.0 6 -0.2 14.7
+move N3 visits 1 winrate 4800 prior 31.68245553970337 scoreMean -0.1793963462114334 pv N3 info move N2 visits 1 winrate 5157 prior 26.420029997825623 scoreMean 0.12013006955385208 pv N2 info move P2 visits 1 winrate 5302 prior 21.881595253944397 scoreMean 0.2682892084121704 pv P2 info move P3 visits 1 winrate 5478 prior 13.369420170783997 scoreMean 0.6941819787025452 pv P3 info move O4 visits 1 winrate 4027 prior 3.8453951478004456 scoreMean -0.42941728234291077 pv O4 info move M3 visits 1 winrate 3831 prior 1.2058786116540432 scoreMean -0.9559035897254944 pv M3 info ];B[mr]C[黑棋 胜率: 51.9% 
+盘面: 7.8 不确定度: 15.5
+(闪电分析 / 2 计算量)
+贴目: 7.5]LZ[闪电分析 51.9 2 -0.3 15.5
+move N3 visits 2 winrate 4812 prior 63.42448592185974 scoreMean -0.3069736547768116 pv N3 M2 info ];W[mq]C[白棋 胜率: 50.5% 
+盘面: 7.6 不确定度: 15.0
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 50.5 6 0.1 15.0
+move M2 visits 1 winrate 4954 prior 53.65720987319946 scoreMean 0.14800724387168884 pv M2 info move N4 visits 1 winrate 4272 prior 23.145388066768646 scoreMean -0.4435894191265106 pv N4 info move M3 visits 1 winrate 4981 prior 18.36322844028473 scoreMean -0.06040986254811287 pv M3 info move P2 visits 1 winrate 4683 prior 4.521026089787483 scoreMean -0.007544470485299826 pv P2 info move D5 visits 1 winrate 2823 prior 0.03629002894740552 scoreMean -2.2609899044036865 pv D5 info move C5 visits 1 winrate 2722 prior 0.015187144163064659 scoreMean -2.832500457763672 pv C5 info ];B[lr]C[黑棋 胜率: 45.7% 
+盘面: 7.6 不确定度: 16.1
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 45.7 6 -0.1 16.1
+move P3 visits 1 winrate 5428 prior 24.610696732997894 scoreMean -0.10569512099027634 pv P3 info move Q3 visits 1 winrate 5208 prior 23.970261216163635 scoreMean 0.0730016827583313 pv Q3 info move G5 visits 1 winrate 4046 prior 14.327281713485718 scoreMean -0.9602150321006775 pv G5 info move R16 visits 1 winrate 4598 prior 13.886478543281555 scoreMean -0.5148821473121643 pv R16 info move L3 visits 1 winrate 3943 prior 4.813118278980255 scoreMean -1.1595152616500854 pv L3 info move K5 visits 1 winrate 4094 prior 3.5576462745666504 scoreMean -1.1527841091156006 pv K5 info ];W[pq]C[白棋 胜率: 54.3% 
+盘面: 7.4 不确定度: 15.3
+(闪电分析 / 5 计算量)
+贴目: 7.5]LZ[闪电分析 54.3 5 -0.1 15.3
+move O4 visits 1 winrate 4569 prior 54.36820983886719 scoreMean -0.10697870701551437 pv O4 info move P2 visits 1 winrate 5422 prior 13.861016929149628 scoreMean 0.21434901654720306 pv P2 info move O5 visits 1 winrate 2729 prior 9.89152193069458 scoreMean -1.7414156198501587 pv O5 info move O6 visits 1 winrate 2647 prior 8.669768273830414 scoreMean -2.018697738647461 pv O6 info move P3 visits 1 winrate 2804 prior 8.202362060546875 scoreMean -2.340223550796509 pv P3 info ];B[oq]C[黑棋 胜率: 20.1% 
+盘面: 4.4 不确定度: 15.3
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 20.1 6 3.1 15.3
+move P2 visits 1 winrate 7993 prior 80.51006197929382 scoreMean 3.131190061569214 pv P2 info move G5 visits 1 winrate 5392 prior 3.791334480047226 scoreMean 0.18862925469875336 pv G5 info move Q13 visits 1 winrate 6533 prior 2.918294258415699 scoreMean 1.7607131004333496 pv Q13 info move E11 visits 1 winrate 6231 prior 2.7549026533961296 scoreMean 0.95163893699646 pv E11 info move R16 visits 1 winrate 5063 prior 2.367927134037018 scoreMean 0.08763186633586884 pv R16 info move J4 visits 1 winrate 4661 prior 1.6434218734502792 scoreMean -0.8740890026092529 pv J4 info ];W[or]C[白棋 胜率: 84.8% 
+盘面: 3.6 不确定度: 15.9
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 84.8 6 -3.9 15.9
+move T2 visits 1 winrate 1515 prior 49.72347617149353 scoreMean -3.8638877868652344 pv T2 info move O5 visits 1 winrate 1129 prior 22.075435519218445 scoreMean -4.616793632507324 pv O5 info move O1 visits 1 winrate 1297 prior 15.3435617685318 scoreMean -5.850748538970947 pv O1 info move N4 visits 1 winrate 633 prior 3.8681108504533768 scoreMean -6.004829406738281 pv N4 info move O6 visits 1 winrate 581 prior 2.874535880982876 scoreMean -7.17535400390625 pv O6 info move Q2 visits 1 winrate 1713 prior 2.8605343773961067 scoreMean -6.492009162902832 pv Q2 info ];B[sr]C[黑棋 胜率: 10.4% 
+盘面: 1.8 不确定度: 15.0
+(闪电分析 / 2 计算量)
+贴目: 7.5]LZ[闪电分析 10.4 2 5.7 15.0
+move P4 visits 2 winrate 8962 prior 31.102105975151062 scoreMean 5.672162771224976 pv P4 O4 info ];W[op]C[白棋 胜率: 88.3% 
+盘面: 1.7 不确定度: 15.4
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 88.3 6 -5.8 15.4
+move O4 visits 1 winrate 1174 prior 98.65229725837708 scoreMean -5.791604995727539 pv O4 info move R2 visits 1 winrate 55 prior 0.24887106847018003 scoreMean -19.378677368164062 pv R2 info move D5 visits 1 winrate 150 prior 0.06724489503540099 scoreMean -18.804168701171875 pv D5 info move O6 visits 1 winrate 108 prior 0.060277938609942794 scoreMean -18.724409103393555 pv O6 info move O5 visits 1 winrate 83 prior 0.046216699411161244 scoreMean -22.310840606689453 pv O5 info move P6 visits 1 winrate 102 prior 0.04550017474684864 scoreMean -18.97786521911621 pv P6 info ];B[np]C[黑棋 胜率: 4.8% 
+盘面: -2.0 不确定度: 15.7
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 4.8 6 9.5 15.7
+move P5 visits 1 winrate 9517 prior 81.95418119430542 scoreMean 9.514638900756836 pv P5 info move O5 visits 1 winrate 8150 prior 12.312961369752884 scoreMean 3.4451828002929688 pv O5 info move M3 visits 1 winrate 7333 prior 3.197943791747093 scoreMean 2.4206833839416504 pv M3 info move L3 visits 1 winrate 7376 prior 0.8129213936626911 scoreMean 2.2796883583068848 pv L3 info move F16 visits 1 winrate 7520 prior 0.6100402679294348 scoreMean 2.5703787803649902 pv F16 info move Q13 visits 1 winrate 5760 prior 0.18898166017606854 scoreMean 0.6371945142745972 pv Q13 info ];W[oo]C[白棋 胜率: 96.6% 
+盘面: -8.5 不确定度: 15.8
+(闪电分析 / 5 计算量)
+贴目: 7.5]LZ[闪电分析 96.6 5 -16.0 15.8
+move R2 visits 1 winrate 340 prior 26.670002937316895 scoreMean -16.02400016784668 pv R2 info move P6 visits 1 winrate 370 prior 25.523361563682556 scoreMean -12.103045463562012 pv P6 info move S6 visits 1 winrate 361 prior 15.747536718845367 scoreMean -11.751482963562012 pv S6 info move Q2 visits 1 winrate 539 prior 15.026405453681946 scoreMean -9.437944412231445 pv Q2 info move N4 visits 1 winrate 208 prior 11.004294455051422 scoreMean -16.60567283630371 pv N4 info ];B[mp]C[黑棋 胜率: 0.7% 
+盘面: -10.1 不确定度: 15.8
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 0.7 6 17.6 15.8
+move P6 visits 1 winrate 9930 prior 98.60185384750366 scoreMean 17.637651443481445 pv P6 info move M4 visits 1 winrate 8889 prior 0.24680804926902056 scoreMean 6.659347057342529 pv M4 info move O5 visits 1 winrate 8697 prior 0.2251606434583664 scoreMean 4.000917911529541 pv O5 info move N5 visits 1 winrate 9282 prior 0.17062537372112274 scoreMean 7.371068000793457 pv N5 info move R2 visits 1 winrate 6491 prior 0.16091505531221628 scoreMean 1.1439127922058105 pv R2 info move E17 visits 1 winrate 9092 prior 0.1459436141885817 scoreMean 6.675050258636475 pv E17 info ];W[on]C[白棋 胜率: 99.5% 
+盘面: -11.6 不确定度: 13.1
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 99.5 6 -19.1 13.1
+move R2 visits 1 winrate 46 prior 55.3547203540802 scoreMean -19.142719268798828 pv R2 info move S4 visits 1 winrate 43 prior 23.772919178009033 scoreMean -21.925670623779297 pv S4 info move S1 visits 1 winrate 69 prior 5.046739429235458 scoreMean -23.631572723388672 pv S1 info move D5 visits 1 winrate 80 prior 4.74560521543026 scoreMean -22.12886619567871 pv D5 info move C5 visits 1 winrate 93 prior 0.9817047044634819 scoreMean -21.951702117919922 pv C5 info move C4 visits 1 winrate 85 prior 0.9496442973613739 scoreMean -23.485919952392578 pv C4 info ];B[rp]C[黑棋 胜率: 0.6% 
+盘面: -6.5 不确定度: 15.1
+(闪电分析 / 3 计算量)
+贴目: 7.5]LZ[闪电分析 0.6 3 14.0 15.1
+move Q2 visits 1 winrate 9935 prior 28.761756420135498 scoreMean 13.975468635559082 pv Q2 info move R1 visits 1 winrate 9918 prior 28.315845131874084 scoreMean 15.67736530303955 pv R1 info move S1 visits 1 winrate 9913 prior 24.55323040485382 scoreMean 15.112771034240723 pv S1 info ];W[rs]C[白棋 胜率: 97.7% 
+盘面: -10.1 不确定度: 15.8
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 97.7 6 -17.6 15.8
+move Q2 visits 1 winrate 232 prior 82.740718126297 scoreMean -17.578903198242188 pv Q2 info move S6 visits 1 winrate 44 prior 5.248274281620979 scoreMean -34.86916732788086 pv S6 info move D5 visits 1 winrate 79 prior 3.516649454832077 scoreMean -25.387487411499023 pv D5 info move C5 visits 1 winrate 85 prior 0.923665426671505 scoreMean -25.612014770507812 pv C5 info move O1 visits 1 winrate 30 prior 0.7854372262954712 scoreMean -34.875850677490234 pv O1 info move E2 visits 1 winrate 63 prior 0.6588258780539036 scoreMean -27.864694595336914 pv E2 info ];B[pr]C[黑棋 胜率: 1.1% 
+盘面: -8.5 不确定度: 13.6
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 1.1 6 16.0 13.6
+move R2 visits 1 winrate 9894 prior 98.9629328250885 scoreMean 16.001869201660156 pv R2 info move F16 visits 1 winrate 7203 prior 0.16663102433085442 scoreMean 2.3483622074127197 pv F16 info move E11 visits 1 winrate 7058 prior 0.14224896440282464 scoreMean 1.5528383255004883 pv E11 info move E17 visits 1 winrate 7042 prior 0.09700537193566561 scoreMean 2.85364031791687 pv E17 info move R16 visits 1 winrate 7106 prior 0.09625046513974667 scoreMean 1.862630844116211 pv R16 info move G17 visits 1 winrate 6896 prior 0.03610693966038525 scoreMean 2.3932251930236816 pv G17 info ];W[qr]C[白棋 胜率: 99.8% 
+盘面: -12.9 不确定度: 12.6
+(闪电分析 / 1 计算量)
+贴目: 7.5]LZ[闪电分析 99.8 1 -20.4 12.6
+move Q1 visits 1 winrate 23 prior 91.77911281585693 scoreMean -20.449743270874023 pv Q1 info ];B[ps]C[黑棋 胜率: 0.2% 
+盘面: -12.7 不确定度: 13.9
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 0.2 6 20.2 13.9
+move S6 visits 1 winrate 9978 prior 53.66482734680176 scoreMean 20.186519622802734 pv S6 info move T6 visits 1 winrate 9929 prior 41.34765267372131 scoreMean 23.062761306762695 pv T6 info move F16 visits 1 winrate 9471 prior 0.7177059538662434 scoreMean 11.568061828613281 pv F16 info move E11 visits 1 winrate 9282 prior 0.4361616913229227 scoreMean 6.572297096252441 pv E11 info move R16 visits 1 winrate 9645 prior 0.42191757820546627 scoreMean 8.321632385253906 pv R16 info move E17 visits 1 winrate 9344 prior 0.37526125088334084 scoreMean 11.357056617736816 pv E17 info ];W[sn]C[白棋 胜率: 99.8% 
+盘面: -14.3 不确定度: 13.6
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 99.8 6 -21.8 13.6
+move S17 visits 1 winrate 18 prior 22.280772030353546 scoreMean -21.80433464050293 pv S17 info move E12 visits 1 winrate 20 prior 14.343462884426117 scoreMean -22.71533966064453 pv E12 info move O1 visits 1 winrate 38 prior 11.828896403312683 scoreMean -23.536977767944336 pv O1 info move P1 visits 1 winrate 52 prior 11.719662696123123 scoreMean -22.549657821655273 pv P1 info move S6 visits 1 winrate 56 prior 7.512481510639191 scoreMean -25.233562469482422 pv S6 info move B6 visits 1 winrate 36 prior 5.154431611299515 scoreMean -23.589275360107422 pv B6 info ];B[eh]C[黑棋 胜率: 0.1% 
+盘面: -16.1 不确定度: 12.9
+(闪电分析 / 2 计算量)
+贴目: 7.5]LZ[闪电分析 0.1 2 23.6 12.9
+move C11 visits 1 winrate 9986 prior 31.29422664642334 scoreMean 23.580337524414062 pv C11 info move E13 visits 1 winrate 9930 prior 25.12107491493225 scoreMean 21.407855987548828 pv E13 info ];W[ci]C[白棋 胜率: 99.8% 
+盘面: -15.2 不确定度: 14.1
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 99.8 6 -22.7 14.1
+move D10 visits 1 winrate 18 prior 37.04998791217804 scoreMean -22.684818267822266 pv D10 info move O1 visits 1 winrate 61 prior 9.238246083259583 scoreMean -23.910629272460938 pv O1 info move P1 visits 1 winrate 57 prior 5.509679019451141 scoreMean -22.792238235473633 pv P1 info move D9 visits 1 winrate 19 prior 4.7218915075063705 scoreMean -23.03848648071289 pv D9 info move S6 visits 1 winrate 65 prior 3.7171293050050735 scoreMean -24.060718536376953 pv S6 info move B6 visits 1 winrate 44 prior 3.4277256578207016 scoreMean -22.408124923706055 pv B6 info ];B[dm]C[黑棋 胜率: 0.2% 
+盘面: -16.1 不确定度: 14.5
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 0.2 6 23.6 14.5
+move D10 visits 1 winrate 9983 prior 39.47480022907257 scoreMean 23.58236312866211 pv D10 info move D6 visits 1 winrate 9982 prior 18.070673942565918 scoreMean 22.347482681274414 pv D6 info move D9 visits 1 winrate 9979 prior 13.361941277980804 scoreMean 22.7890625 pv D9 info move F2 visits 1 winrate 9980 prior 3.8441821932792664 scoreMean 22.88397216796875 pv F2 info move F16 visits 1 winrate 9978 prior 1.2652033008635044 scoreMean 22.159456253051758 pv F16 info move R16 visits 1 winrate 9974 prior 1.167838554829359 scoreMean 22.573095321655273 pv R16 info ];W[dn]C[白棋 胜率: 99.9% 
+盘面: -16.2 不确定度: 13.2
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 99.9 6 -23.7 13.2
+move D10 visits 1 winrate 11 prior 41.65200889110565 scoreMean -23.732210159301758 pv D10 info move O1 visits 1 winrate 47 prior 13.527379930019379 scoreMean -23.63780403137207 pv O1 info move P1 visits 1 winrate 48 prior 7.146725803613663 scoreMean -23.58278465270996 pv P1 info move S17 visits 1 winrate 29 prior 6.310043483972549 scoreMean -22.07121467590332 pv S17 info move S6 visits 1 winrate 43 prior 3.9545126259326935 scoreMean -24.84466552734375 pv S6 info move D9 visits 1 winrate 18 prior 3.576095402240753 scoreMean -23.511682510375977 pv D9 info ];B[dj]C[黑棋 胜率: 0.2% 
+盘面: -15.2 不确定度: 13.3
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 0.2 6 22.7 13.3
+move C10 visits 1 winrate 9980 prior 23.549240827560425 scoreMean 22.690065383911133 pv C10 info move R16 visits 1 winrate 9977 prior 21.28535658121109 scoreMean 22.936750411987305 pv R16 info move E13 visits 1 winrate 9978 prior 15.393151342868805 scoreMean 22.111230850219727 pv E13 info move F2 visits 1 winrate 9977 prior 3.265809267759323 scoreMean 21.805824279785156 pv F2 info move S17 visits 1 winrate 9975 prior 3.0500205233693123 scoreMean 22.35637092590332 pv S17 info move E14 visits 1 winrate 9976 prior 3.0351638793945312 scoreMean 20.14303970336914 pv E14 info ];W[cj]C[白棋 胜率: 99.9% 
+盘面: -15.8 不确定度: 13.5
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 99.9 6 -23.3 13.5
+move D9 visits 1 winrate 14 prior 32.2381854057312 scoreMean -23.286102294921875 pv D9 info move C9 visits 1 winrate 14 prior 24.83886331319809 scoreMean -23.22391128540039 pv C9 info move O1 visits 1 winrate 51 prior 8.24616625905037 scoreMean -23.46925163269043 pv O1 info move S17 visits 1 winrate 23 prior 7.509136199951172 scoreMean -22.363819122314453 pv S17 info move P1 visits 1 winrate 55 prior 4.270228371024132 scoreMean -23.207855224609375 pv P1 info move S6 visits 1 winrate 42 prior 3.087768144905567 scoreMean -23.576961517333984 pv S6 info ];B[dk]C[黑棋 胜率: 0.2% 
+盘面: -15.9 不确定度: 12.9
+(闪电分析 / 3 计算量)
+贴目: 7.5]LZ[闪电分析 0.2 3 23.4 12.9
+move R16 visits 1 winrate 9981 prior 25.08072853088379 scoreMean 23.364465713500977 pv R16 info move C9 visits 1 winrate 9969 prior 14.320255815982819 scoreMean 21.194549560546875 pv C9 info move E13 visits 1 winrate 9979 prior 7.724255323410034 scoreMean 21.42302894592285 pv E13 info ];W[eg]C[白棋 胜率: 99.9% 
+盘面: -14.3 不确定度: 12.5
+(闪电分析 / 1 计算量)
+贴目: 7.5]LZ[闪电分析 99.9 1 -21.8 12.5
+move F13 visits 1 winrate 14 prior 48.073917627334595 scoreMean -21.782014846801758 pv F13 info ];B[fg]C[黑棋 胜率: 0.2% 
+盘面: -13.7 不确定度: 12.5
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 0.2 6 21.2 12.5
+move E14 visits 1 winrate 9978 prior 26.585370302200317 scoreMean 21.181793212890625 pv E14 info move F14 visits 1 winrate 9884 prior 24.82873648405075 scoreMean 21.522480010986328 pv F14 info move R16 visits 1 winrate 9970 prior 13.133430480957031 scoreMean 22.075485229492188 pv R16 info move G12 visits 1 winrate 9975 prior 9.138443320989609 scoreMean 21.37521743774414 pv G12 info move G17 visits 1 winrate 9959 prior 5.222204700112343 scoreMean 20.581058502197266 pv G17 info move F16 visits 1 winrate 9975 prior 2.646484598517418 scoreMean 21.16913414001465 pv F16 info ];W[ef]C[白棋 胜率: 99.9% 
+盘面: -13.0 不确定度: 11.9
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 99.9 6 -20.5 11.9
+move S17 visits 1 winrate 14 prior 29.13106381893158 scoreMean -20.54726791381836 pv S17 info move F2 visits 1 winrate 18 prior 21.978546679019928 scoreMean -21.85910987854004 pv F2 info move O1 visits 1 winrate 37 prior 9.769602864980698 scoreMean -22.691612243652344 pv O1 info move C15 visits 1 winrate 22 prior 6.76555410027504 scoreMean -22.20104217529297 pv C15 info move P1 visits 1 winrate 42 prior 5.722258985042572 scoreMean -22.501977920532227 pv P1 info move S6 visits 1 winrate 32 prior 3.040553256869316 scoreMean -26.1215877532959 pv S6 info ];B[fr]C[黑棋 胜率: 0.2% 
+盘面: -13.7 不确定度: 12.4
+(闪电分析 / 1 计算量)
+贴目: 7.5]LZ[闪电分析 0.2 1 21.2 12.4
+move E2 visits 1 winrate 9982 prior 32.0023387670517 scoreMean 21.212486267089844 pv E2 info ];W[er]C[白棋 胜率: 99.9% 
+盘面: -14.2 不确定度: 11.9
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 99.9 6 -21.7 11.9
+move S17 visits 1 winrate 10 prior 27.567315101623535 scoreMean -21.708288192749023 pv S17 info move E1 visits 1 winrate 15 prior 23.729726672172546 scoreMean -22.75947380065918 pv E1 info move O1 visits 1 winrate 47 prior 9.460733830928802 scoreMean -23.499549865722656 pv O1 info move C15 visits 1 winrate 27 prior 6.9616056978702545 scoreMean -21.211654663085938 pv C15 info move P1 visits 1 winrate 33 prior 5.562484636902809 scoreMean -21.961925506591797 pv P1 info move B13 visits 1 winrate 31 prior 2.7482567355036736 scoreMean -23.17183494567871 pv B13 info ];B[es]C[黑棋 胜率: 0.2% 
+盘面: -14.2 不确定度: 13.8
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 0.2 6 21.7 13.8
+move R16 visits 1 winrate 9984 prior 26.482930779457092 scoreMean 21.673091888427734 pv R16 info move D1 visits 1 winrate 9985 prior 22.431915998458862 scoreMean 20.982402801513672 pv D1 info move G12 visits 1 winrate 9975 prior 19.140248000621796 scoreMean 21.497127532958984 pv G12 info move Q12 visits 1 winrate 9978 prior 3.7560783326625824 scoreMean 21.499332427978516 pv Q12 info move S17 visits 1 winrate 9980 prior 2.840779535472393 scoreMean 21.557743072509766 pv S17 info move Q13 visits 1 winrate 9962 prior 1.7012840136885643 scoreMean 22.082799911499023 pv Q13 info ];W[ds]C[白棋 胜率: 99.8% 
+盘面: -14.1 不确定度: 11.7
+(闪电分析 / 1 计算量)
+贴目: 7.5]LZ[闪电分析 99.8 1 -21.6 11.7
+move F1 visits 1 winrate 18 prior 37.45249807834625 scoreMean -21.555368423461914 pv F1 info ];B[fs]C[黑棋 胜率: 0.7% 
+盘面: -13.3 不确定度: 14.2
+(闪电分析 / 1 计算量)
+贴目: 7.5]LZ[闪电分析 0.7 1 20.8 14.2
+move C2 visits 1 winrate 9926 prior 21.92285805940628 scoreMean 20.788145065307617 pv C2 info ];W[cr]C[白棋 胜率: 99.8% 
+盘面: -13.0 不确定度: 10.9
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 99.8 6 -20.5 10.9
+move S17 visits 1 winrate 15 prior 28.635698556900024 scoreMean -20.45659065246582 pv S17 info move C15 visits 1 winrate 30 prior 18.84404718875885 scoreMean -21.651994705200195 pv C15 info move S6 visits 1 winrate 23 prior 12.073423713445663 scoreMean -24.587053298950195 pv S6 info move O1 visits 1 winrate 56 prior 9.443050622940063 scoreMean -22.433395385742188 pv O1 info move P1 visits 1 winrate 48 prior 7.284564524888992 scoreMean -22.786779403686523 pv P1 info move B13 visits 1 winrate 42 prior 1.5355258248746395 scoreMean -21.84125518798828 pv B13 info ];B[bm]C[黑棋 胜率: 0.1% 
+盘面: -18.2 不确定度: 13.0
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 0.1 6 25.7 13.0
+move R16 visits 1 winrate 9987 prior 40.31941592693329 scoreMean 25.71137809753418 pv R16 info move G12 visits 1 winrate 9980 prior 20.734399557113647 scoreMean 24.394969940185547 pv G12 info move G5 visits 1 winrate 9978 prior 3.7120316177606583 scoreMean 23.3324031829834 pv G5 info move Q13 visits 1 winrate 9980 prior 2.8937574476003647 scoreMean 23.28592872619629 pv Q13 info move Q12 visits 1 winrate 9986 prior 2.737080119550228 scoreMean 25.12259292602539 pv Q12 info move G17 visits 1 winrate 9983 prior 1.2691368348896503 scoreMean 22.795133590698242 pv G17 info ];W[qd]C[白棋 胜率: 99.8% 
+盘面: -17.7 不确定度: 12.0
+(闪电分析 / 1 计算量)
+贴目: 7.5]LZ[闪电分析 99.8 1 -25.2 12.0
+move S17 visits 1 winrate 18 prior 21.061137318611145 scoreMean -25.16847801208496 pv S17 info ];B[rc]C[黑棋 胜率: 0.1% 
+盘面: -16.6 不确定度: 12.7
+(闪电分析 / 1 计算量)
+贴目: 7.5]LZ[闪电分析 0.1 1 24.1 12.7
+move S16 visits 1 winrate 9987 prior 74.01532530784607 scoreMean 24.056406021118164 pv S16 info ];W[rd]C[白棋 胜率: 99.9% 
+盘面: -18.5 不确定度: 11.8
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 99.9 6 -26.0 11.8
+move S15 visits 1 winrate 10 prior 29.52466607093811 scoreMean -26.01804542541504 pv S15 info move R15 visits 1 winrate 18 prior 23.016297817230225 scoreMean -24.304180145263672 pv R15 info move C15 visits 1 winrate 56 prior 10.274694859981537 scoreMean -24.397205352783203 pv C15 info move O1 visits 1 winrate 69 prior 10.15065312385559 scoreMean -25.90503692626953 pv O1 info move P1 visits 1 winrate 53 prior 5.644518882036209 scoreMean -26.299049377441406 pv P1 info move N16 visits 1 winrate 17 prior 2.3627717047929764 scoreMean -27.314313888549805 pv N16 info ];B[qe]C[黑棋 胜率: 0.2% 
+盘面: -16.8 不确定度: 12.7
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 0.2 6 24.3 12.7
+move S15 visits 1 winrate 9979 prior 41.85282289981842 scoreMean 24.324981689453125 pv S15 info move S18 visits 1 winrate 9985 prior 31.530526280403137 scoreMean 24.939245223999023 pv S18 info move T17 visits 1 winrate 9935 prior 17.235173285007477 scoreMean 25.016334533691406 pv T17 info move G17 visits 1 winrate 9972 prior 1.3001498766243458 scoreMean 22.55418586730957 pv G17 info move E17 visits 1 winrate 9964 prior 0.9968594647943974 scoreMean 22.445770263671875 pv E17 info move G18 visits 1 winrate 9895 prior 0.9891019202768803 scoreMean 22.635421752929688 pv G18 info ];W[re]C[白棋 胜率: 99.9% 
+盘面: -17.8 不确定度: 12.1
+(闪电分析 / 1 计算量)
+贴目: 7.5]LZ[闪电分析 99.9 1 -25.3 12.1
+move S14 visits 1 winrate 11 prior 38.405364751815796 scoreMean -25.301198959350586 pv S14 info ];B[rf]C[黑棋 胜率: 0.1% 
+盘面: -19.2 不确定度: 12.5
+(闪电分析 / 1 计算量)
+贴目: 7.5]LZ[闪电分析 0.1 1 26.7 12.5
+move S18 visits 1 winrate 9985 prior 52.56149172782898 scoreMean 26.72296142578125 pv S18 info ];W[rb]C[白棋 胜率: 99.9% 
+盘面: -18.6 不确定度: 11.9
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 99.9 6 -26.1 11.9
+move N16 visits 1 winrate 9 prior 19.927026331424713 scoreMean -26.075416564941406 pv N16 info move M15 visits 1 winrate 15 prior 12.998458743095398 scoreMean -25.120824813842773 pv M15 info move C15 visits 1 winrate 23 prior 10.133101791143417 scoreMean -26.431556701660156 pv C15 info move T15 visits 1 winrate 24 prior 7.459832727909088 scoreMean -24.968820571899414 pv T15 info move O1 visits 1 winrate 32 prior 6.80636540055275 scoreMean -25.93377113342285 pv O1 info move P1 visits 1 winrate 41 prior 4.873799532651901 scoreMean -27.47228240966797 pv P1 info ];B[kc]C[黑棋 胜率: 0.1% 
+盘面: -19.5 不确定度: 13.6
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 0.1 6 27.0 13.6
+move N16 visits 1 winrate 9989 prior 24.33132231235504 scoreMean 27.0366153717041 pv N16 info move G12 visits 1 winrate 9984 prior 14.026989042758942 scoreMean 26.98732566833496 pv G12 info move M15 visits 1 winrate 9984 prior 11.612468957901001 scoreMean 26.059045791625977 pv M15 info move P14 visits 1 winrate 9985 prior 7.271778583526611 scoreMean 26.515151977539062 pv P14 info move P12 visits 1 winrate 9984 prior 2.3764140903949738 scoreMean 26.568946838378906 pv P12 info move G5 visits 1 winrate 9982 prior 1.8983466550707817 scoreMean 25.613855361938477 pv G5 info ];W[md]C[白棋 胜率: 99.9% 
+盘面: -20.0 不确定度: 12.5
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 99.9 6 -27.5 12.5
+move P14 visits 1 winrate 13 prior 18.44029128551483 scoreMean -27.451871871948242 pv P14 info move O14 visits 1 winrate 12 prior 11.932136118412018 scoreMean -27.088150024414062 pv O14 info move T15 visits 1 winrate 20 prior 8.942212909460068 scoreMean -26.9101619720459 pv T15 info move N15 visits 1 winrate 19 prior 6.611305475234985 scoreMean -27.725914001464844 pv N15 info move C15 visits 1 winrate 39 prior 5.775641649961472 scoreMean -26.866819381713867 pv C15 info move O1 visits 1 winrate 54 prior 5.3782351315021515 scoreMean -28.321985244750977 pv O1 info ];B[fd]C[黑棋 胜率: 0.1% 
+盘面: -20.2 不确定度: 14.6
+(闪电分析 / 2 计算量)
+贴目: 7.5]LZ[闪电分析 0.1 2 27.7 14.6
+move P14 visits 1 winrate 9987 prior 40.45962691307068 scoreMean 27.660850524902344 pv P14 info move G12 visits 1 winrate 9987 prior 30.081728100776672 scoreMean 28.3248291015625 pv G12 info ];W[of]C[白棋 胜率: 99.9% 
+盘面: -21.0 不确定度: 13.9
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 99.9 6 -28.5 13.9
+move P12 visits 1 winrate 14 prior 24.523943662643433 scoreMean -28.470266342163086 pv P12 info move P13 visits 1 winrate 10 prior 19.59998607635498 scoreMean -28.85543441772461 pv P13 info move O15 visits 1 winrate 24 prior 6.6897571086883545 scoreMean -29.154603958129883 pv O15 info move T15 visits 1 winrate 41 prior 6.162893399596214 scoreMean -28.87909698486328 pv T15 info move C15 visits 1 winrate 40 prior 5.288159102201462 scoreMean -28.23741340637207 pv C15 info move P11 visits 1 winrate 16 prior 5.173231661319733 scoreMean -28.691495895385742 pv P11 info ];B[me]C[黑棋 胜率: 0.1% 
+盘面: -25.9 不确定度: 15.6
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 0.1 6 33.4 15.6
+move O15 visits 1 winrate 9993 prior 63.38462233543396 scoreMean 33.449249267578125 pv O15 info move M15 visits 1 winrate 9993 prior 13.453114032745361 scoreMean 32.104644775390625 pv M15 info move N14 visits 1 winrate 9991 prior 5.527679994702339 scoreMean 31.898283004760742 pv N14 info move P12 visits 1 winrate 9987 prior 4.569201543927193 scoreMean 28.467418670654297 pv P12 info move G12 visits 1 winrate 9984 prior 2.3337196558713913 scoreMean 29.655765533447266 pv G12 info move Q15 visits 1 winrate 9986 prior 0.7994545623660088 scoreMean 28.975854873657227 pv Q15 info ];W[ne]C[白棋 胜率: 99.9% 
+盘面: -25.4 不确定度: 13.1
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 99.9 6 -32.9 13.1
+move P11 visits 1 winrate 14 prior 21.66019231081009 scoreMean -32.88536071777344 pv P11 info move Q15 visits 1 winrate 19 prior 17.42996722459793 scoreMean -34.23260498046875 pv Q15 info move P12 visits 1 winrate 14 prior 9.901034086942673 scoreMean -33.49053955078125 pv P12 info move R10 visits 1 winrate 30 prior 7.927107065916061 scoreMean -32.89970397949219 pv R10 info move T15 visits 1 winrate 42 prior 7.481908053159714 scoreMean -30.58799934387207 pv T15 info move C15 visits 1 winrate 36 prior 6.470310688018799 scoreMean -32.53574752807617 pv C15 info ];B[pe]C[黑棋 胜率: 0.1% 
+盘面: -26.3 不确定度: 16.9
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 0.1 6 33.8 16.9
+move N14 visits 1 winrate 9991 prior 41.91118776798248 scoreMean 33.785404205322266 pv N14 info move P12 visits 1 winrate 9988 prior 28.41396927833557 scoreMean 29.791345596313477 pv P12 info move Q13 visits 1 winrate 9983 prior 6.892108172178268 scoreMean 30.150156021118164 pv Q13 info move M15 visits 1 winrate 9990 prior 5.967535451054573 scoreMean 32.33939743041992 pv M15 info move O13 visits 1 winrate 9989 prior 3.3573057502508163 scoreMean 30.75065803527832 pv O13 info move G12 visits 1 winrate 9984 prior 3.14774289727211 scoreMean 29.838865280151367 pv G12 info ];W[mf]C[白棋 胜率: 99.9% 
+盘面: -27.8 不确定度: 15.5
+(闪电分析 / 5 计算量)
+贴目: 7.5]LZ[闪电分析 99.9 5 -35.3 15.5
+move P11 visits 1 winrate 14 prior 21.442978084087372 scoreMean -35.328426361083984 pv P11 info move Q13 visits 1 winrate 14 prior 16.921429336071014 scoreMean -35.303558349609375 pv Q13 info move R10 visits 1 winrate 14 prior 14.214526116847992 scoreMean -35.4592399597168 pv R10 info move O11 visits 1 winrate 12 prior 5.697103217244148 scoreMean -36.10710906982422 pv O11 info move M15 visits 1 winrate 20 prior 5.621114745736122 scoreMean -39.38869857788086 pv M15 info ];B[le]C[黑棋 胜率: 0.0% 
+盘面: -34.3 不确定度: 21.0
+(闪电分析 / 2 计算量)
+贴目: 7.5]LZ[闪电分析 0.0 2 41.8 21.0
+move Q12 visits 1 winrate 9995 prior 23.79329204559326 scoreMean 41.76144027709961 pv Q12 info move Q13 visits 1 winrate 9995 prior 23.631197214126587 scoreMean 38.358116149902344 pv Q13 info ];W[ph]C[白棋 胜率: 99.9% 
+盘面: -34.6 不确定度: 19.5
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 99.9 6 -42.1 19.5
+move Q11 visits 1 winrate 12 prior 26.090437173843384 scoreMean -42.05203628540039 pv Q11 info move O13 visits 1 winrate 26 prior 18.600526452064514 scoreMean -42.21623992919922 pv O13 info move Q13 visits 1 winrate 16 prior 18.347953259944916 scoreMean -45.414146423339844 pv Q13 info move R10 visits 1 winrate 24 prior 11.082503944635391 scoreMean -42.90605163574219 pv R10 info move T15 visits 1 winrate 53 prior 2.667910046875477 scoreMean -41.66845703125 pv T15 info move P12 visits 1 winrate 24 prior 2.59088221937418 scoreMean -45.97028732299805 pv P12 info ];B[pi]C[黑棋 胜率: 0.1% 
+盘面: -36.5 不确定度: 20.9
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 0.1 6 44.0 20.9
+move P11 visits 1 winrate 9993 prior 46.54596149921417 scoreMean 43.98542404174805 pv P11 info move P12 visits 1 winrate 9995 prior 39.58027362823486 scoreMean 42.108612060546875 pv P12 info move R12 visits 1 winrate 9981 prior 4.813368991017342 scoreMean 35.9831428527832 pv R12 info move O12 visits 1 winrate 9994 prior 2.374660223722458 scoreMean 36.36188507080078 pv O12 info move O11 visits 1 winrate 9989 prior 1.147189736366272 scoreMean 33.634098052978516 pv O11 info move Q13 visits 1 winrate 9988 prior 0.683681620284915 scoreMean 34.936073303222656 pv Q13 info ];W[oi]C[白棋 胜率: 99.8% 
+盘面: -39.2 不确定度: 18.4
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 99.8 6 -46.7 18.4
+move P10 visits 1 winrate 15 prior 23.39346706867218 scoreMean -46.7267951965332 pv P10 info move O13 visits 1 winrate 33 prior 22.74024933576584 scoreMean -45.18911361694336 pv O13 info move Q13 visits 1 winrate 26 prior 17.09831953048706 scoreMean -55.13134002685547 pv Q13 info move P12 visits 1 winrate 21 prior 6.169211491942406 scoreMean -48.918975830078125 pv P12 info move O1 visits 1 winrate 31 prior 4.477820545434952 scoreMean -48.07923889160156 pv O1 info move N13 visits 1 winrate 31 prior 3.9593882858753204 scoreMean -47.35208511352539 pv N13 info ];B[oj]C[黑棋 胜率: 0.1% 
+盘面: -36.9 不确定度: 18.3
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 0.1 6 44.4 18.3
+move P12 visits 1 winrate 9993 prior 36.415284872055054 scoreMean 44.40187454223633 pv P12 info move O11 visits 1 winrate 9993 prior 32.866355776786804 scoreMean 45.080936431884766 pv O11 info move R12 visits 1 winrate 9987 prior 13.787978887557983 scoreMean 37.593902587890625 pv R12 info move O12 visits 1 winrate 9991 prior 8.59387218952179 scoreMean 35.51736831665039 pv O12 info move O10 visits 1 winrate 9983 prior 4.37474362552166 scoreMean 31.808347702026367 pv O10 info move Q13 visits 1 winrate 9990 prior 0.5019819363951683 scoreMean 34.1872673034668 pv Q13 info ];W[ni]C[白棋 胜率: 99.9% 
+盘面: -33.9 不确定度: 18.5
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 99.9 6 -41.4 18.5
+move O10 visits 1 winrate 10 prior 30.20138144493103 scoreMean -41.44287872314453 pv O10 info move Q13 visits 1 winrate 11 prior 25.782203674316406 scoreMean -52.00309371948242 pv Q13 info move R10 visits 1 winrate 26 prior 9.495168924331665 scoreMean -46.55704879760742 pv R10 info move R12 visits 1 winrate 16 prior 7.462857663631439 scoreMean -50.8261604309082 pv R12 info move S10 visits 1 winrate 17 prior 6.569889187812805 scoreMean -47.58017349243164 pv S10 info move O13 visits 1 winrate 40 prior 4.317062348127365 scoreMean -48.62830352783203 pv O13 info ];B[pk]C[黑棋 胜率: 0.0% 
+盘面: -41.4 不确定度: 22.1
+(闪电分析 / 2 计算量)
+贴目: 7.5]LZ[闪电分析 0.0 2 48.9 22.1
+move O10 visits 1 winrate 9996 prior 27.30886936187744 scoreMean 48.8965950012207 pv O10 info move R12 visits 1 winrate 9988 prior 22.573617100715637 scoreMean 46.4195442199707 pv R12 info ];W[qh]C[白棋 胜率: 99.9% 
+盘面: -40.1 不确定度: 22.1
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 99.9 6 -47.6 22.1
+move S12 visits 1 winrate 7 prior 46.370819211006165 scoreMean -47.621150970458984 pv S12 info move O13 visits 1 winrate 32 prior 16.237996518611908 scoreMean -48.56632614135742 pv O13 info move C15 visits 1 winrate 58 prior 7.350374758243561 scoreMean -49.73054504394531 pv C15 info move O1 visits 1 winrate 30 prior 5.60075156390667 scoreMean -51.93794631958008 pv O1 info move S6 visits 1 winrate 41 prior 4.647722467780113 scoreMean -51.70790100097656 pv S6 info move P1 visits 1 winrate 33 prior 4.577901214361191 scoreMean -51.5324592590332 pv P1 info ];B[rh]C[黑棋 胜率: 0.1% 
+盘面: -41.4 不确定度: 23.7
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 0.1 6 48.9 23.7
+move O10 visits 1 winrate 9993 prior 33.50796401500702 scoreMean 48.928932189941406 pv O10 info move R10 visits 1 winrate 9988 prior 26.27502977848053 scoreMean 50.4442138671875 pv R10 info move S11 visits 1 winrate 9988 prior 16.7259082198143 scoreMean 48.13608169555664 pv S11 info move O9 visits 1 winrate 9985 prior 5.288802087306976 scoreMean 43.822059631347656 pv O9 info move S10 visits 1 winrate 9986 prior 4.159343987703323 scoreMean 39.09833526611328 pv S10 info move N9 visits 1 winrate 9989 prior 3.3015772700309753 scoreMean 35.051116943359375 pv N9 info ];W[qj]C[白棋 胜率: 99.9% 
+盘面: -40.0 不确定度: 21.6
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 99.9 6 -47.5 21.6
+move Q10 visits 1 winrate 7 prior 51.61796808242798 scoreMean -47.53486251831055 pv Q10 info move T15 visits 1 winrate 41 prior 6.814543157815933 scoreMean -51.470149993896484 pv T15 info move P13 visits 1 winrate 17 prior 6.00665956735611 scoreMean -55.67979431152344 pv P13 info move O1 visits 1 winrate 46 prior 5.992744490504265 scoreMean -56.500389099121094 pv O1 info move O13 visits 1 winrate 29 prior 4.5103274285793304 scoreMean -52.7969970703125 pv O13 info move C15 visits 1 winrate 74 prior 4.48397733271122 scoreMean -53.72126770019531 pv C15 info ];B[pj]C[黑棋 胜率: 0.1% 
+盘面: -42.3 不确定度: 23.2
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 0.1 6 49.8 23.2
+move O10 visits 1 winrate 9992 prior 58.08002948760986 scoreMean 49.78598403930664 pv O10 info move S11 visits 1 winrate 9987 prior 29.519882798194885 scoreMean 44.006622314453125 pv S11 info move N10 visits 1 winrate 9986 prior 3.998984768986702 scoreMean 38.19772720336914 pv N10 info move N9 visits 1 winrate 9983 prior 1.9584892317652702 scoreMean 40.95298385620117 pv N9 info move O9 visits 1 winrate 9976 prior 1.5252729877829552 scoreMean 41.922698974609375 pv O9 info move S10 visits 1 winrate 9982 prior 0.5688407924026251 scoreMean 34.98387145996094 pv S10 info ];W[ri]C[白棋 胜率: 99.9% 
+盘面: -38.4 不确定度: 22.2
+(闪电分析 / 2 计算量)
+贴目: 7.5]LZ[闪电分析 99.9 2 -45.9 22.2
+move S10 visits 2 winrate 14 prior 32.900744676589966 scoreMean -45.8722038269043 pv S10 T11 info ];B[rj]C[黑棋 胜率: 0.2% 
+盘面: -38.3 不确定度: 22.7
+(闪电分析 / 2 计算量)
+贴目: 7.5]LZ[闪电分析 0.2 2 45.8 22.7
+move T11 visits 1 winrate 9983 prior 62.39439249038696 scoreMean 45.811954498291016 pv T11 info move O10 visits 1 winrate 9985 prior 29.951778054237366 scoreMean 34.37422561645508 pv O10 info ];W[si]C[白棋 胜率: 99.8% 
+盘面: -44.5 不确定度: 24.2
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 99.8 6 -52.0 24.2
+move T10 visits 1 winrate 24 prior 19.430536031723022 scoreMean -52.03234100341797 pv T10 info move R13 visits 1 winrate 11 prior 13.637754321098328 scoreMean -52.9774055480957 pv R13 info move P12 visits 1 winrate 10 prior 11.574211716651917 scoreMean -48.97130584716797 pv P12 info move O13 visits 1 winrate 28 prior 11.517833918333054 scoreMean -51.41666030883789 pv O13 info move O10 visits 1 winrate 13 prior 8.123617619276047 scoreMean -50.457855224609375 pv O10 info move T12 visits 1 winrate 18 prior 7.77435302734375 scoreMean -56.9847526550293 pv T12 info ];B[sj]C[黑棋 胜率: 0.3% 
+盘面: -52.8 不确定度: 19.3
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 0.3 6 60.3 19.3
+move O10 visits 1 winrate 9967 prior 63.54932188987732 scoreMean 60.28413391113281 pv O10 info move O9 visits 1 winrate 9957 prior 20.56104838848114 scoreMean 46.16292953491211 pv O9 info move N9 visits 1 winrate 9972 prior 8.373592048883438 scoreMean 29.741914749145508 pv N9 info move N10 visits 1 winrate 9984 prior 3.726205974817276 scoreMean 29.504013061523438 pv N10 info move S13 visits 1 winrate 9944 prior 0.452260859310627 scoreMean 26.26876449584961 pv S13 info move M14 visits 1 winrate 9894 prior 0.3891125088557601 scoreMean 23.361669540405273 pv M14 info ];W[nj]C[白棋 胜率: 99.8% 
+盘面: -52.9 不确定度: 20.1
+(闪电分析 / 2 计算量)
+贴目: 7.5]LZ[闪电分析 99.8 2 -60.4 20.1
+move O9 visits 1 winrate 17 prior 16.624408960342407 scoreMean -60.4386100769043 pv O9 info move T12 visits 1 winrate 17 prior 14.916583895683289 scoreMean -61.718017578125 pv T12 info ];B[nk]C[黑棋 胜率: 0.3% 
+盘面: -53.4 不确定度: 21.9
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 0.3 6 60.9 21.9
+move P8 visits 1 winrate 9968 prior 40.00973701477051 scoreMean 60.859283447265625 pv P8 info move O8 visits 1 winrate 9988 prior 33.00767242908478 scoreMean 58.48106384277344 pv O8 info move N9 visits 1 winrate 9980 prior 24.55318570137024 scoreMean 55.779014587402344 pv N9 info move P9 visits 1 winrate 9968 prior 1.446013431996107 scoreMean 38.585575103759766 pv P9 info move N8 visits 1 winrate 9801 prior 0.17002418171614408 scoreMean 21.14971351623535 pv N8 info move M9 visits 1 winrate 9976 prior 0.04341071471571922 scoreMean 30.41327476501465 pv M9 info ];W[nl]C[白棋 胜率: 99.7% 
+盘面: -50.3 不确定度: 15.2
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 99.7 6 -57.8 15.2
+move N13 visits 1 winrate 26 prior 16.28950536251068 scoreMean -57.766326904296875 pv N13 info move N9 visits 1 winrate 37 prior 15.415064990520477 scoreMean -61.622650146484375 pv N9 info move T12 visits 1 winrate 13 prior 12.93017864227295 scoreMean -58.56352233886719 pv T12 info move P13 visits 1 winrate 14 prior 9.2475526034832 scoreMean -61.53389358520508 pv P13 info move O13 visits 1 winrate 36 prior 7.588280737400055 scoreMean -63.40739440917969 pv O13 info move S6 visits 1 winrate 19 prior 7.231072336435318 scoreMean -64.25495147705078 pv S6 info ];B[sh]C[黑棋 胜率: 0.2% 
+盘面: -49.6 不确定度: 18.4
+(闪电分析 / 1 计算量)
+贴目: 7.5]LZ[闪电分析 0.2 1 57.1 18.4
+move S11 visits 1 winrate 9984 prior 62.30816841125488 scoreMean 57.10924530029297 pv S11 info ];W[ri]C[白棋 胜率: 99.6% 
+盘面: -54.4 不确定度: 15.9
+(闪电分析 / 6 计算量)
+贴目: 7.5]LZ[闪电分析 99.6 6 -61.9 15.9
+move N9 visits 1 winrate 42 prior 18.131443858146667 scoreMean -61.91448974609375 pv N9 info move N13 visits 1 winrate 21 prior 11.078118532896042 scoreMean -60.73337936401367 pv N13 info move O13 visits 1 winrate 62 prior 9.249337762594223 scoreMean -61.09288024902344 pv O13 info move P12 visits 1 winrate 33 prior 9.838660061359406 scoreMean -63.59430694580078 pv P12 info move S6 visits 1 winrate 38 prior 6.3418567180633545 scoreMean -61.525177001953125 pv S6 info move S9 visits 1 winrate 10 prior 5.820680409669876 scoreMean -67.45051574707031 pv S9 info ])
